@@ -170,6 +170,11 @@ http.favicon.hash:-43161126 (slack)
 http.favicon.hash:927199499 (box)
 html:"prtg network"
 
+Miscellaneous:
+check_mk
+redis_version
+product:Memcached
+
 VoIP:
 product:"Polycom SoundPoint VoIP phone http config"
 
